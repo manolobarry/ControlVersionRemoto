@@ -13,6 +13,7 @@ public class controlVersion {
 	        
 	        System.out.println("El cuadrado de " + numero + " es " + calculaCuadrado(numero));
 
+	        System.out.println("Gracias");
 	}
 
 	private static int calculaCuadrado(int numero) {
